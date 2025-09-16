@@ -72,6 +72,9 @@ Before starting, ensure you have:
 
 This project is organized into a series of lessons, each building on the previous one to introduce core DevOps concepts and tools.
 
+- **Intro** – What is DevOps? 
+  👉 [What is DevOps? ](lesson-plans/1-lesson-plan-1.md)
+
 - **Lesson 1** – Getting started with WSL, Git, AWS EC2, Docker, and Ansible  
   👉 [Go to Lesson 1](lesson-plans/1-lesson-plan-1.md)
 
