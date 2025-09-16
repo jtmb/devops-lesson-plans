@@ -48,6 +48,17 @@ It provides a structured way to learn core DevOps skills by setting up:
 It also includes reference material explaining **what DevOps is**, with diagrams, resources, and best practices.
 
 ---
+<br>
+
+### <h1>What is DevOps?</h1>
+
+DevOps is a **culture, set of practices, and collection of tools** that bridge software development (Dev) and IT operations (Ops).  
+
+📚 [See the DevOps Packet](docs/1-what-is-devops.md) for diagrams, examples, and links to resources.  
+
+---
+
+<br>
 
 ### <h1>Prerequisites</h1>
 
@@ -62,38 +73,16 @@ Before starting, ensure you have:
 
 ### <h1>Learning Roadmap <span style="color: yellow;">(Under construction 🚧)</span></h1>
 
-#### WSL Setup
-- Install Ubuntu via WSL2
-- Learn differences between local (WSL) and cloud (EC2) environments
+This project is organized into a series of lessons, each building on the previous one to introduce core DevOps concepts and tools.
 
-#### Git & Version Control
-- Install Git on WSL
-- Configure Git with SSH keys
-- Clone, commit, and push to a repository
+- **Lesson 1** – Getting started with WSL, Git, AWS EC2, Docker, and Ansible  
+  👉 [Go to Lesson 1](lesson-plans/1-lesson-plan-1.md)
 
-#### AWS EC2
-- Launch a free-tier Ubuntu EC2 instance
-- Connect with SSH
-- Compare EC2 with WSL environments
+- **Lesson 2** – (coming soon)
 
-#### Docker
-- Install Docker on EC2
-- Run test containers (`hello-world`, `nginx`)
-- Expose ports and access services
+- **Lesson 3** – (coming soon)
 
-#### Ansible
-- Install Ansible on WSL
-- Create an inventory file with EC2 IP
-- Run ad-hoc commands
-- Write a basic playbook to install Nginx
-
----
-
-### <h1>What is DevOps?</h1>
-
-DevOps is a **culture, set of practices, and collection of tools** that bridge software development (Dev) and IT operations (Ops).  
-
-📚 [See the DevOps Packet](docs/what-is-devops.md) for diagrams, examples, and links to resources.  
+- **More lessons** will be added as the learning path grows.
 
 ---
 
