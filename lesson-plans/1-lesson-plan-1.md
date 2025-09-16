@@ -17,7 +17,7 @@
 
 ---
 
-## **Lesson 2 – Git Basics & Version Control**
+## **Git Basics & Version Control**
 
 * **Goal:** Learn how to use Git for version control in WSL.
 * **Steps:**
@@ -52,7 +52,7 @@
 
 ---
 
-## **Lesson 3 – AWS EC2 & Remote Servers**
+## **AWS EC2 & Remote Servers**
 
 * **Goal:** Learn how to provision and connect to a cloud server.
 * **Steps:**
@@ -75,7 +75,7 @@
 
 ---
 
-## **Lesson 4 – Docker on EC2**
+## **Docker on EC2**
 
 * **Goal:** Deploy containers on a remote server.
 * **Steps:**
@@ -100,7 +100,7 @@
 
 ---
 
-## **Lesson 5 – Ansible on WSL**
+## **Ansible on WSL**
 
 * **Goal:** Use WSL as the control node with Ansible to configure EC2.
 * **Steps:**
@@ -142,7 +142,7 @@
 
 ---
 
-## **Lesson 6 – Wrap-Up & Next Steps**
+## **Wrap-Up & Next Steps**
 
 * Review what was learned:
 
