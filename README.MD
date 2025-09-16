@@ -18,37 +18,34 @@
 <summary>Table of Contents</summary>
 
 - [About](#about)
-- [Prerequisites](#prerequisites)
-- [Learning Roadmap](#learning-roadmap)
-    - [WSL Setup](#wsl-setup)
-    - [Git & Version Control](#git--version-control)
-    - [AWS EC2](#aws-ec2)
-    - [Docker](#docker)
-    - [Ansible](#ansible)
 - [What is DevOps?](#what-is-devops)
+- [Prerequisites](#prerequisites)
+- [Learning Roadmap](#learning-roadmap-under-construction-)
 - [Contributing](#contributing)
 - [License](#license)
 
 </details>
+
 <br>
 
 ---
+### <h1>About</h1>
 
-### <h1>About </h1>
+This repository is a **beginner-friendly DevOps learning project** designed to provide a clear, structured path for building core DevOps skills.  
+Through hands-on practice, you will learn how to set up and work with:
 
-This repository is a **beginner-friendly DevOps learning project**.  
-It provides a structured way to learn core DevOps skills by setting up:
-
-- A local development environment with **WSL (Ubuntu)**
+- A local development environment using **WSL (Ubuntu)**
 - Source control with **Git & GitHub**
-- A remote server with **AWS EC2**
+- A remote server on **AWS EC2**
 - Containerization with **Docker**
 - Configuration management with **Ansible**
+- More comming soon  **(Under Construction 🚧)**
 
-It also includes reference material explaining **what DevOps is**, with diagrams, resources, and best practices.
+In addition, you’ll find reference materials that explain **what DevOps is**, supported by diagrams, curated resources, and best practices.
+
+⚡ **Learning recommendation:** While this project is self-paced, it is **best used alongside guidance from a mentor** who can answer questions, explain tricky concepts, and help you apply the material to real-world scenarios. These packets are designed as **supplementary learning resources** to support that mentorship journey.
 
 ---
-<br>
 
 ### <h1>What is DevOps?</h1>
 
@@ -71,7 +68,7 @@ Before starting, ensure you have:
 
 ---
 
-### <h1>Learning Roadmap <span style="color: yellow;">(Under construction 🚧)</span></h1>
+### <h1>Learning Roadmap ***Under construction*** 🚧</h1>
 
 This project is organized into a series of lessons, each building on the previous one to introduce core DevOps concepts and tools.
 
