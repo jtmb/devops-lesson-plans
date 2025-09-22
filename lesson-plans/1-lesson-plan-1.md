@@ -1,6 +1,6 @@
 ### **Prerequisites**
 
-* WSL2 with Ubuntu already installed (done ✅)
+* WSL2 with Ubuntu already installed
 * AWS account created and verified
 * GitHub (or GitLab/Bitbucket) account created
 
