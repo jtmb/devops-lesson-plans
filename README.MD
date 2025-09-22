@@ -51,7 +51,7 @@ In addition, you’ll find reference materials that explain **what DevOps is**, 
 
 DevOps is a **culture, set of practices, and collection of tools** that bridge software development (Dev) and IT operations (Ops).  
 
-📚 [See the DevOps Packet](docs/1-what-is-devops.md) for diagrams, examples, and links to resources.  
+📚 [See the DevOps Packet](lesson-plans/0-what-is-devops.md) for diagrams, examples, and links to resources.  
 
 ---
 
@@ -73,7 +73,7 @@ Before starting, ensure you have:
 This project is organized into a series of lessons, each building on the previous one to introduce core DevOps concepts and tools.
 
 - **Intro** – What is DevOps? 
-  👉 [What is DevOps? ](lesson-plans/1-lesson-plan-1.md)
+  👉 [What is DevOps? ](lesson-plans/0-what-is-devops.md)
 
 - **Lesson 1** – Getting started with WSL, Git, AWS EC2, Docker, and Ansible  
   👉 [Go to Lesson 1](lesson-plans/1-lesson-plan-1.md)
